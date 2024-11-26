@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is Mark Limuel Santiago.
+
+<a href="https://app.daily.dev/marksantiago02"><img src="https://api.daily.dev/devcards/v2/ms7ca0kCo13hGskK3qKF6.png?type=default&r=ec6" width="356" alt="Mark Santiago's Dev Card"/></a>
+
 <!--
 **MarkSantiago02/MarkSantiago02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://app.daily.dev/marksantiago02">
-<img src="https://api.daily.dev/devcards/v2/ms7ca0kCo13hGskK3qKF6.png?type=default&r=ec6" width="356" alt="Mark Santiago's Dev Card"/>
-</a>
+
